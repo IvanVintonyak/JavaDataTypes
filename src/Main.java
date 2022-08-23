@@ -1,15 +1,14 @@
 public class Main {
     public static void main(String[]args)
     {
-        System.out.println();
-        printMessage("Hello I am John, I am ... " );
+        printMessage();
         printSum();
 
     }
-    public static void printMessage(String s)
+    public static void printMessage()
     {
-        String string = "s";
-        System.out.println(s);
+        String s = new String("Hello I am John, I am ...");
+        System.out.print(s);
     }
 
     public static void printSum()
