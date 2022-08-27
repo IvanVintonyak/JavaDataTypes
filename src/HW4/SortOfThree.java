@@ -19,15 +19,11 @@ public class SortOfThree {
 
     private static void printFromHighestToLowest(int a, int b, int c) {
         if (a > b && a > c) {
-            System.out.println(a);
-
-        } else if (b > c && b > a) {
-            System.out.println(b);
-        }
-
-        else if (c < b) {
-
-            System.out.println(c);
+            System.out.printf("%d,%d,%d", a, b, c);
+        } else if (b > c) {
+            System.out.printf("%d,%d,%d", b, c, a);
+        } else {
+            System.out.printf("%d,%d,%d", c, b, a);
         }
     }
 }
