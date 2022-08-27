@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0e404590-603b-43ac-8c38-798dd64f6fca" name="Changes" comment="Add some fixes">
-      <change beforePath="$PROJECT_DIR$/src/HW4/MaxOfFour.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/HW4/MaxOfFour.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HW4/MinOfTwo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/HW4/MinOfTwo.java" afterDir="false" />
-    </list>
+    <list default="true" id="0e404590-603b-43ac-8c38-798dd64f6fca" name="Changes" comment="Add some fixes" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
