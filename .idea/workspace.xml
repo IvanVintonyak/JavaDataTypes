@@ -2,10 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0e404590-603b-43ac-8c38-798dd64f6fca" name="Changes" comment="Add some fixes">
-      <change afterPath="$PROJECT_DIR$/src/HW4/MainOfFour.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaDataTypes/HW4/MainOfTwo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HW4/MainOfTwo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/HW4/MainOfTwo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/HW4/MaxOfFour.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/HW4/MaxOfFour.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/HW4/MinOfTwo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/HW4/MinOfTwo.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,9 +43,9 @@
       <recent name="com" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.MainOfTwo">
-    <configuration name="MainOfFour" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="HW4.MainOfFour" />
+  <component name="RunManager" selected="Application.MinOfTwo">
+    <configuration name="MaxOfFour" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="HW4.MaxOfFour" />
       <module name="JavaDataTypes" />
       <extension name="coverage">
         <pattern>
@@ -59,8 +57,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MainOfTwo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="HW4.MainOfTwo" />
+    <configuration name="MinOfTwo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="HW4.MinOfTwo" />
       <module name="JavaDataTypes" />
       <extension name="coverage">
         <pattern>
@@ -74,8 +72,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.MainOfTwo" />
-        <item itemvalue="Application.MainOfFour" />
+        <item itemvalue="Application.MinOfTwo" />
+        <item itemvalue="Application.MaxOfFour" />
       </list>
     </recent_temporary>
   </component>

@@ -3,6 +3,10 @@ package HW4;
 import java.util.Scanner;
 
 public class MaxOfFour {
+    /*
+    Enter and reed four numbers from the console
+    Implement method which prints max of four variable
+     */
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         System.out.println("Enter four numbers:");
