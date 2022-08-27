@@ -1,8 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0e404590-603b-43ac-8c38-798dd64f6fca" name="Changes" comment="">
+    <list default="true" id="0e404590-603b-43ac-8c38-798dd64f6fca" name="Changes" comment="Add some fixes">
+      <change afterPath="$PROJECT_DIR$/src/HW4/MainOfTwo.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaDataTypes/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaDataTypes/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaDataTypes/neww.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/neww.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,6 +45,26 @@
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
       <recent name="com" />
     </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="MainOfTwo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="HW4.MainOfTwo" />
+      <module name="JavaDataTypes" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="HW4.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.MainOfTwo" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
