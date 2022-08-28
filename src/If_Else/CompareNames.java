@@ -2,10 +2,8 @@ package If_Else;
 
 import java.util.Scanner;
 
-import static java.lang.Boolean.valueOf;
 
 public class CompareNames {
-    private static char i;
 
 
     /*

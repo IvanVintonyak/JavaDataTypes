@@ -1,4 +1,4 @@
-package HW4;
+package If_Else;
 
 import java.util.Scanner;
 
@@ -18,15 +18,15 @@ public class MaxOfFour {
         scanner.close();
     }
 
-    private static void printMaxOfFour(int one, int two, int three, int four) {
-        if (!(one < two || one < three || one < four)) {
-            System.out.println(one + " is the biggest variable");
-        } else if (!(two < three || two < four)) {
-            System.out.println(two + " is the biggest variable");
-        } else if (!(three < four)) {
-            System.out.println(three + " is the biggest variable");
+    private static void printMaxOfFour(int a, int b, int c, int d) {
+        if (!(a < b || a < c || a < d)) {
+            System.out.println(a + " is the biggest variable");
+        } else if (!(b < c || b < d)) {
+            System.out.println(b + " is the biggest variable");
+        } else if (!(c < d)) {
+            System.out.println(c + " is the biggest variable");
         } else {
-            System.out.println(four + " is the biggest variable");
+            System.out.println(d + " is the biggest variable");
         }
     }
 }

@@ -1,4 +1,4 @@
-package HW4;
+package If_Else;
 
 import java.util.Scanner;
 
@@ -16,11 +16,11 @@ public class MinOfTwo {
         scanner.close();
     }
 
-    private static void printMinOfTwo(int one, int two) {
-        if (one <= two) {
-            System.out.println(one + " is the lowest variable");
+    private static void printMinOfTwo(int a, int b) {
+        if (a <= b) {
+            System.out.println(a + " is the lowest variable");
         } else {
-            System.out.println(two + " is the lowest variable");
+            System.out.println(b + " is the lowest variable");
         }
     }
 }

@@ -1,4 +1,4 @@
-package HW4;
+package If_Else;
 
 import java.util.Scanner;
 

@@ -1,7 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0e404590-603b-43ac-8c38-798dd64f6fca" name="Changes" comment="Add some fixes" />
+    <list default="true" id="0e404590-603b-43ac-8c38-798dd64f6fca" name="Changes" comment="Add some fixes">
+      <change afterPath="$PROJECT_DIR$/src/For_loop/EvenNumbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/If_Else/CompareNames.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaDataTypes/HW4/MainOfFour.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaDataTypes/HW4/MainOfTwo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/HW4/MaxOfFour.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/If_Else/MaxOfFour.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/HW4/MinOfTwo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/If_Else/MinOfTwo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/HW4/SortOfThree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/If_Else/SortOfThree.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -40,13 +49,39 @@
       <recent name="com" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.MinOfTwo">
-    <configuration name="MaxOfFour" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="HW4.MaxOfFour" />
+  <component name="RunManager" selected="Application.EvenNumbers">
+    <configuration name="CompareNames" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="If_Else.CompareNames" />
       <module name="JavaDataTypes" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="HW4.*" />
+          <option name="PATTERN" value="If_Else.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EvenNumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="For_loop.EvenNumbers" />
+      <module name="JavaDataTypes" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="For_loop.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MaxOfFour" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="If_Else.MaxOfFour" />
+      <module name="JavaDataTypes" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="If_Else.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -55,11 +90,24 @@
       </method>
     </configuration>
     <configuration name="MinOfTwo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="HW4.MinOfTwo" />
+      <option name="MAIN_CLASS_NAME" value="If_Else.MinOfTwo" />
       <module name="JavaDataTypes" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="HW4.*" />
+          <option name="PATTERN" value="If_Else.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SortOfThree" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="If_Else.SortOfThree" />
+      <module name="JavaDataTypes" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="If_Else.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -69,6 +117,9 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.EvenNumbers" />
+        <item itemvalue="Application.SortOfThree" />
+        <item itemvalue="Application.CompareNames" />
         <item itemvalue="Application.MinOfTwo" />
         <item itemvalue="Application.MaxOfFour" />
       </list>
@@ -118,7 +169,21 @@
       <option name="project" value="LOCAL" />
       <updated>1661458646016</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Add some fixes">
+      <created>1661635316946</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1661635316946</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Add some fixes">
+      <created>1661641501158</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1661641501158</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -137,5 +202,15 @@
     <MESSAGE value="Add .gitignore 2" />
     <MESSAGE value="Add some fixes" />
     <option name="LAST_COMMIT_MESSAGE" value="Add some fixes" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.lang.NumberFormatException" package="java.lang" />
+          <option name="timeStamp" value="10" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
