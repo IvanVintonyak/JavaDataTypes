@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0e404590-603b-43ac-8c38-798dd64f6fca" name="Changes" comment="Add some fixes">
-      <change afterPath="$PROJECT_DIR$/src/For_loop/PrintRightTriangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/WhileLoop/MultiplicationTable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/WhileLoop/PrintStringNtimes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/WhileLoop/SSquare.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/WhileLoop/TenNumbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/WhileLoop/TenNumbersReverse.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -43,26 +47,13 @@
       <recent name="com" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.PrintRightTriangle">
-    <configuration name="CompareNames" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="If_Else.CompareNames" />
+  <component name="RunManager" selected="Application.SSquare">
+    <configuration name="MultiplicationTable" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="WhileLoop.MultiplicationTable" />
       <module name="JavaDataTypes" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="If_Else.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="EvenNumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="For_loop.EvenNumbers" />
-      <module name="JavaDataTypes" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="For_loop.*" />
+          <option name="PATTERN" value="WhileLoop.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -96,12 +87,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SortOfThree" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="If_Else.SortOfThree" />
+    <configuration name="SSquare" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="WhileLoop.SSquare" />
       <module name="JavaDataTypes" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="If_Else.*" />
+          <option name="PATTERN" value="WhileLoop.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TenNumbersReverse" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="WhileLoop.TenNumbersReverse" />
+      <module name="JavaDataTypes" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="WhileLoop.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -111,11 +115,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.PrintRightTriangle" />
+        <item itemvalue="Application.SSquare" />
+        <item itemvalue="Application.MultiplicationTable" />
         <item itemvalue="Application.PrintRectangle" />
-        <item itemvalue="Application.EvenNumbers" />
-        <item itemvalue="Application.SortOfThree" />
-        <item itemvalue="Application.CompareNames" />
+        <item itemvalue="Application.PrintRightTriangle" />
+        <item itemvalue="Application.TenNumbersReverse" />
       </list>
     </recent_temporary>
   </component>
