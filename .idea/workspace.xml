@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0e404590-603b-43ac-8c38-798dd64f6fca" name="Changes" comment="Add some fixes">
-      <change afterPath="$PROJECT_DIR$/src/For_loop/PrintRectangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/For_loop/PrintRightTriangle.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -43,7 +43,7 @@
       <recent name="com" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.PrintRectangle">
+  <component name="RunManager" selected="Application.PrintRightTriangle">
     <configuration name="CompareNames" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="If_Else.CompareNames" />
       <module name="JavaDataTypes" />
@@ -70,12 +70,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MinOfTwo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="If_Else.MinOfTwo" />
+    <configuration name="PrintRectangle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="For_loop.PrintRectangle" />
       <module name="JavaDataTypes" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="If_Else.*" />
+          <option name="PATTERN" value="For_loop.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -83,8 +83,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PrintRectangle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="For_loop.PrintRectangle" />
+    <configuration name="PrintRightTriangle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="For_loop.PrintRightTriangle" />
       <module name="JavaDataTypes" />
       <extension name="coverage">
         <pattern>
@@ -111,11 +111,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.PrintRightTriangle" />
         <item itemvalue="Application.PrintRectangle" />
         <item itemvalue="Application.EvenNumbers" />
         <item itemvalue="Application.SortOfThree" />
         <item itemvalue="Application.CompareNames" />
-        <item itemvalue="Application.MinOfTwo" />
       </list>
     </recent_temporary>
   </component>
