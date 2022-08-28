@@ -2,14 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0e404590-603b-43ac-8c38-798dd64f6fca" name="Changes" comment="Add some fixes">
-      <change afterPath="$PROJECT_DIR$/src/For_loop/EvenNumbers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/If_Else/CompareNames.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/For_loop/PrintRectangle.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaDataTypes/HW4/MainOfFour.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaDataTypes/HW4/MainOfTwo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HW4/MaxOfFour.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/If_Else/MaxOfFour.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HW4/MinOfTwo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/If_Else/MinOfTwo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HW4/SortOfThree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/If_Else/SortOfThree.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,7 +43,7 @@
       <recent name="com" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.EvenNumbers">
+  <component name="RunManager" selected="Application.PrintRectangle">
     <configuration name="CompareNames" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="If_Else.CompareNames" />
       <module name="JavaDataTypes" />
@@ -76,8 +70,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MaxOfFour" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="If_Else.MaxOfFour" />
+    <configuration name="MinOfTwo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="If_Else.MinOfTwo" />
       <module name="JavaDataTypes" />
       <extension name="coverage">
         <pattern>
@@ -89,12 +83,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MinOfTwo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="If_Else.MinOfTwo" />
+    <configuration name="PrintRectangle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="For_loop.PrintRectangle" />
       <module name="JavaDataTypes" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="If_Else.*" />
+          <option name="PATTERN" value="For_loop.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -117,11 +111,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.PrintRectangle" />
         <item itemvalue="Application.EvenNumbers" />
         <item itemvalue="Application.SortOfThree" />
         <item itemvalue="Application.CompareNames" />
         <item itemvalue="Application.MinOfTwo" />
-        <item itemvalue="Application.MaxOfFour" />
       </list>
     </recent_temporary>
   </component>
@@ -183,7 +177,21 @@
       <option name="project" value="LOCAL" />
       <updated>1661641501158</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Add some fixes">
+      <created>1661670914997</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1661670914997</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Add some fixes">
+      <created>1661670942241</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1661670942241</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
