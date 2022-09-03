@@ -2,12 +2,24 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0e404590-603b-43ac-8c38-798dd64f6fca" name="Changes" comment="Add some fixes">
-      <change afterPath="$PROJECT_DIR$/src/WhileLoop/MultiplicationTable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/WhileLoop/PrintStringNtimes.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/WhileLoop/SSquare.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/WhileLoop/TenNumbers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/WhileLoop/TenNumbersReverse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Arrays/DivideArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Arrays/MaxOf20.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Arrays/ReverseArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Arrays/TwoArrays.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Classes/Cat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Classes/Cat1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Classes/Cat2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Classes/Cat3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Classes/Cat4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Classes/Cat5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Classes/Cat6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Classes/CatFight.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Encapsulation/Ca1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Encapsulation/Cat2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Encapsulation/Cat3.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaDataTypes/For_loop/EvenNumbers.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaDataTypes/For_loop/EvenNumbers.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaDataTypes/For_loop/PrintRectangle.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaDataTypes/For_loop/PrintRectangle.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,13 +59,13 @@
       <recent name="com" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.SSquare">
-    <configuration name="MultiplicationTable" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="WhileLoop.MultiplicationTable" />
+  <component name="RunManager" selected="Application.Cat6">
+    <configuration name="Cat5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Classes.Cat5" />
       <module name="JavaDataTypes" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="WhileLoop.*" />
+          <option name="PATTERN" value="Classes.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -61,12 +73,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PrintRectangle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="For_loop.PrintRectangle" />
+    <configuration name="Cat6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Classes.Cat6" />
       <module name="JavaDataTypes" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="For_loop.*" />
+          <option name="PATTERN" value="Classes.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -74,12 +86,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PrintRightTriangle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="For_loop.PrintRightTriangle" />
+    <configuration name="ReverseArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Arrays.ReverseArray" />
       <module name="JavaDataTypes" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="For_loop.*" />
+          <option name="PATTERN" value="Arrays.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -87,12 +99,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SSquare" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="WhileLoop.SSquare" />
+    <configuration name="TwoArrays" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Arrays.TwoArrays" />
       <module name="JavaDataTypes" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="WhileLoop.*" />
+          <option name="PATTERN" value="Arrays.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -100,12 +112,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TenNumbersReverse" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="WhileLoop.TenNumbersReverse" />
+    <configuration name="sdfdsf" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="HW5.sdfdsf" />
       <module name="JavaDataTypes" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="WhileLoop.*" />
+          <option name="PATTERN" value="Arrays.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -115,11 +127,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.SSquare" />
-        <item itemvalue="Application.MultiplicationTable" />
-        <item itemvalue="Application.PrintRectangle" />
-        <item itemvalue="Application.PrintRightTriangle" />
-        <item itemvalue="Application.TenNumbersReverse" />
+        <item itemvalue="Application.Cat6" />
+        <item itemvalue="Application.Cat5" />
+        <item itemvalue="Application.sdfdsf" />
+        <item itemvalue="Application.ReverseArray" />
+        <item itemvalue="Application.TwoArrays" />
       </list>
     </recent_temporary>
   </component>
@@ -195,7 +207,28 @@
       <option name="project" value="LOCAL" />
       <updated>1661670942241</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="Add some fixes">
+      <created>1661767285758</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1661767285758</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Add some fixes">
+      <created>1661767414762</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1661767414762</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Add some fixes">
+      <created>1661773838591</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1661773838592</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
