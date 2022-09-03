@@ -12,7 +12,7 @@ public class Cat3 {
         int weight;
         String color;
 
-        public int getAge () {
+        public int getAge() {
         return age;
     }
 

@@ -23,8 +23,11 @@ public class Cat {
     private int age;
     private int weight;
 
-    public class Cat(String name, int age, int weight) {
+    public Cat(String name, int age, int weight) {
 
+        this.name = name;
+        this.age = age;
+        this.weight = weight;
 
     }
 
@@ -32,9 +35,9 @@ public class Cat {
         if cat1.fight(cat2) == true ->cat2.fight(cat1) == false
     }
 
+    public void seName(String name) {
+        this.name = name;
 
-    public void setName(String catName) {
-        this.name = catName;
     }
 
     public String getName() {
@@ -42,9 +45,10 @@ public class Cat {
 
     }
 
-    public void setAge(int catAge) {
 
-        this.age = catAge;
+    public void setAge(int age) {
+
+        this.age = age;
     }
 
     public int getAge() {
@@ -52,9 +56,9 @@ public class Cat {
 
     }
 
-    public void setWeight(int catWeight) {
+    public void setWeight(int weight) {
 
-        this.weight = catWeight;
+        this.weight = weight;
     }
 
     public int getWeight() {
