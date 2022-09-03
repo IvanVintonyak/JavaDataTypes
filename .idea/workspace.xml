@@ -1,26 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0e404590-603b-43ac-8c38-798dd64f6fca" name="Changes" comment="Add some fixes">
-      <change afterPath="$PROJECT_DIR$/src/Arrays/DivideArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Arrays/MaxOf20.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Arrays/ReverseArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Arrays/TwoArrays.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Classes/Cat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Classes/Cat1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Classes/Cat2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Classes/Cat3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Classes/Cat4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Classes/Cat5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Classes/Cat6.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Classes/CatFight.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Encapsulation/Ca1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Encapsulation/Cat2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Encapsulation/Cat3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaDataTypes/For_loop/EvenNumbers.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaDataTypes/For_loop/EvenNumbers.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaDataTypes/For_loop/PrintRectangle.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaDataTypes/For_loop/PrintRectangle.class" afterDir="false" />
-    </list>
+    <list default="true" id="0e404590-603b-43ac-8c38-798dd64f6fca" name="Changes" comment="Add some fixes" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
