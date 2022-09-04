@@ -2,10 +2,20 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0e404590-603b-43ac-8c38-798dd64f6fca" name="Changes" comment="Add some fixes">
+      <change afterPath="$PROJECT_DIR$/src/Abstract_Classes/Solution1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Abstract_Classes/Solution2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Domestic_animals/Cat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Domestic_animals/Dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Domestic_animals/Pet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Horse_and_Pegas/Horse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Horse_and_Pegas/Pegasus.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Village/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Village/Bull.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Village/Cow.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Village/Goat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Village/Pig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Village/Sheep.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Encapsulation/Ca1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Encapsulation/Ca1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Encapsulation/Cat2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Encapsulation/Cat2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Encapsulation/Cat3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Encapsulation/Cat3.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,6 +52,7 @@
 }</component>
   <component name="RecentsManager">
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="Inheritance" />
       <recent name="com" />
     </key>
   </component>
