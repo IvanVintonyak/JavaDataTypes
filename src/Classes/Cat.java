@@ -31,17 +31,19 @@ public class Cat {
 
     }
 
+
     public boolean fight(Cat anotherCat) {
-        if cat1.fight(cat2) == true ->cat2.fight(cat1) == false
-    }
 
-    public void seName(String name) {
-        this.name = name;
-
+        return false;
     }
 
     public String getName() {
         return name;
+
+    }
+
+    public void seName(String name) {
+        this.name = name;
 
     }
 

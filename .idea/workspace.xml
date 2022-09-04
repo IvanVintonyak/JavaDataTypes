@@ -3,8 +3,12 @@
   <component name="ChangeListManager">
     <list default="true" id="0e404590-603b-43ac-8c38-798dd64f6fca" name="Changes" comment="Add some fixes">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaDataTypes/Classes/Cat3.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaDataTypes/Classes/Cat3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaDataTypes/Classes/Cat6.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaDataTypes/Classes/Cat6.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaDataTypes/Classes/Cat7.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Classes/Cat.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Classes/Cat.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Classes/CatFight.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Classes/CatFight.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Encapsulation/Cat2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Encapsulation/Cat2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Encapsulation/Cat3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Encapsulation/Cat3.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -45,7 +49,7 @@
       <recent name="com" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Cat6">
+  <component name="RunManager" selected="Application.CatFight">
     <configuration name="Cat5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Classes.Cat5" />
       <module name="JavaDataTypes" />
@@ -72,12 +76,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ReverseArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Arrays.ReverseArray" />
+    <configuration name="CatFight" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Classes.CatFight" />
       <module name="JavaDataTypes" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Arrays.*" />
+          <option name="PATTERN" value="Classes.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -85,8 +89,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TwoArrays" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Arrays.TwoArrays" />
+    <configuration name="ReverseArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Arrays.ReverseArray" />
       <module name="JavaDataTypes" />
       <extension name="coverage">
         <pattern>
@@ -113,11 +117,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.CatFight" />
         <item itemvalue="Application.Cat6" />
         <item itemvalue="Application.Cat5" />
         <item itemvalue="Application.sdfdsf" />
         <item itemvalue="Application.ReverseArray" />
-        <item itemvalue="Application.TwoArrays" />
       </list>
     </recent_temporary>
   </component>
