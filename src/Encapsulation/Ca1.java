@@ -4,10 +4,10 @@ public class Ca1 {
 
     //Close access to all internal variables of the class
 
-    String name;
-    private int age;
-    private int weight;
-    private String color;
+   private String name;
+   private int age;
+   private int weight;
+   private String color;
 
     public int getAge() {
         return age;
