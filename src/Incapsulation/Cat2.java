@@ -1,14 +1,15 @@
 package Incapsulation;
+
 public class Cat2 {
     /*
     Close access to all internal variables
     but only for which we can get access through the methods
     */
 
-    String name;
-    int age;
+    private String name;
+    private int age;
     int weight;
-   private String color;
+    String color;
 
     public int getAge() {
         return age;

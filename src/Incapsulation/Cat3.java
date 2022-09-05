@@ -1,4 +1,5 @@
 package Incapsulation;
+
 public class Cat3 {
     /*
     Close access to all internal variables
@@ -6,9 +7,9 @@ public class Cat3 {
     */
 
     private String name;
-    int age;
-    int weight;
-   private String color;
+    private int age;
+    private int weight;
+    private String color;
 
     public int getAge() {
         return age;
@@ -18,11 +19,12 @@ public class Cat3 {
         return color;
     }
 
-    public void setName(String name) {
+    private void setName(String name) {
         this.name = name;
     }
 
-    public void setAge(int age) {
+    private void setAge(int age) {
         this.age = age;
     }
+
 }
