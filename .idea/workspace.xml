@@ -2,20 +2,31 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0e404590-603b-43ac-8c38-798dd64f6fca" name="Changes" comment="Add some fixes">
-      <change afterPath="$PROJECT_DIR$/src/Abstract_Classes/Solution1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Abstract_Classes/Solution2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Domestic_animals/Cat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Domestic_animals/Dog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Domestic_animals/Pet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Horse_and_Pegas/Horse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Horse_and_Pegas/Pegasus.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Village/Animal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Village/Bull.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Village/Cow.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Village/Goat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Village/Pig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Village/Sheep.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Inheritance/Domestic_animals/Cat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Inheritance/Domestic_animals/Dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Inheritance/Domestic_animals/Pet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Inheritance/Horse_and_Pegas/Horse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Polymorphism/Solution1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Polymorphism/Solution2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Polymorphism/Solution3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Polymorphism/Solution4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Polymorphism/Solution5.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaDataTypes/Encapsulation/Ca1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Domestic_animals/Cat.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Domestic_animals/Dog.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Domestic_animals/Pet.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Encapsulation/Ca1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Incapsulation/Ca1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Encapsulation/Cat2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Incapsulation/Cat2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Encapsulation/Cat3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Incapsulation/Cat3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Horse_and_Pegas/Horse.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Horse_and_Pegas/Pegasus.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Inheritance/Horse_and_Pegas/Pegasus.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Village/Animal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Inheritance/Village/Animal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Village/Bull.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Inheritance/Village/Bull.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Village/Cow.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Inheritance/Village/Cow.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Village/Goat.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Inheritance/Village/Goat.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Village/Pig.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Inheritance/Village/Pig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Village/Sheep.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Inheritance/Village/Sheep.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -26,6 +37,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="package-info" />
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -51,38 +63,15 @@
   }
 }</component>
   <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="Polymorphizm" />
+    </key>
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
       <recent name="Inheritance" />
       <recent name="com" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.CatFight">
-    <configuration name="Cat5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Classes.Cat5" />
-      <module name="JavaDataTypes" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Classes.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Cat6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Classes.Cat6" />
-      <module name="JavaDataTypes" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Classes.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Solution4">
     <configuration name="CatFight" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Classes.CatFight" />
       <module name="JavaDataTypes" />
@@ -96,12 +85,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ReverseArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Arrays.ReverseArray" />
+    <configuration name="Solution1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Polymorphism.Solution1" />
       <module name="JavaDataTypes" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Arrays.*" />
+          <option name="PATTERN" value="Polymorphism.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -109,12 +98,38 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="sdfdsf" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="HW5.sdfdsf" />
+    <configuration name="Solution2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Polymorphism.Solution2" />
       <module name="JavaDataTypes" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Arrays.*" />
+          <option name="PATTERN" value="Polymorphism.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Solution4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Polymorphism.Solution4" />
+      <module name="JavaDataTypes" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Polymorphism.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Solution5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Polymorphism.Solution5" />
+      <module name="JavaDataTypes" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Polymorphism.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -124,11 +139,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Solution4" />
+        <item itemvalue="Application.Solution5" />
+        <item itemvalue="Application.Solution2" />
+        <item itemvalue="Application.Solution1" />
         <item itemvalue="Application.CatFight" />
-        <item itemvalue="Application.Cat6" />
-        <item itemvalue="Application.Cat5" />
-        <item itemvalue="Application.sdfdsf" />
-        <item itemvalue="Application.ReverseArray" />
       </list>
     </recent_temporary>
   </component>
@@ -225,7 +240,14 @@
       <option name="project" value="LOCAL" />
       <updated>1661773838592</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="Add some fixes">
+      <created>1662316581754</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1662316581754</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
