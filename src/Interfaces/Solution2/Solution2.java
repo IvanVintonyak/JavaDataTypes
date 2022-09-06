@@ -1,4 +1,4 @@
-package Interfaces;
+package Interfaces.Solution2;
 
 public class Solution2 {
     /*

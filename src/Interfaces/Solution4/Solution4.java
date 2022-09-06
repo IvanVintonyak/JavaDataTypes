@@ -1,4 +1,4 @@
-package Interfaces;
+package Interfaces.Solution4;
 
 public class Solution4 {
     /*
@@ -8,14 +8,14 @@ public class Solution4 {
     Add these interfaces to class Human without method implementation
     Create Human class as abstract
      */
-    abstract class Human implements Run_swim {
-    }
+        abstract class Human implements Run, Swim {
+        }
 
-    interface Run {
-        void name();
-    }
+        interface Run {
+            void name();
+        }
 
-    interface Swim {
-        void name();
+        interface Swim {
+            void name();
+        }
     }
-}

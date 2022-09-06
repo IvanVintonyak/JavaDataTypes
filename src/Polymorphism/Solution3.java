@@ -22,14 +22,14 @@ public class Solution3 {
 
     public static class Cat extends Pet {
         public Cat getChild() {
-            return null;
+            return getChild();
         }
 
     }
 
     public static class Dog extends Pet {
         public Dog getChild() {
-            return null;
+            return getChild();
 
 
         }

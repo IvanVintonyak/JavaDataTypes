@@ -1,4 +1,5 @@
-package Interfaces;
+package Interfaces.Solution3;
+
 
 public class Solution3 {
     {
@@ -6,25 +7,20 @@ public class Solution3 {
     There are interfaces Fly, Move, Eat.
     Add proper interfaces to the classes: Dog, Car, Duck, Airplane
      */
-class Dog {
-    interface Fly {
-        void fly();
-    }
+        class Dog {
+            interface Fly {
+                void fly();
+            }
 
-    interface Move {
-        void move();
-    }
+            interface Move {
+                void move();
+            }
 
-    interface Eat {
-        void eat();
-    }
+            interface Eat {
+                void eat();
+            }
 
-}
-
-
-
-
-
+        }
 
 
         interface Fly {
