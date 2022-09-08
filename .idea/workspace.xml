@@ -2,34 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0e404590-603b-43ac-8c38-798dd64f6fca" name="Changes" comment="Add some fixes">
+      <change afterPath="$PROJECT_DIR$/src/Cars/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Cars/Engine.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Cars/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Cars/SportCar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Cars/SportEngine.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Cars/TaxiCar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Cars/TaxiEngine.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaDataTypes/Interfaces/Airplane.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaDataTypes/Interfaces/Car.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaDataTypes/Interfaces/Dog.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaDataTypes/Interfaces/Duck.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaDataTypes/Interfaces/Fly.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaDataTypes/Interfaces/Fly_Move_Eat$Eat.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaDataTypes/Interfaces/Fly_Move_Eat$Fly.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaDataTypes/Interfaces/Fly_Move_Eat$Move.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaDataTypes/Interfaces/Fly_Move_Eat.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaDataTypes/Interfaces/Human.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaDataTypes/Interfaces/Run_swim$Run.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaDataTypes/Interfaces/Run_swim$Swim.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaDataTypes/Interfaces/Run_swim.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaDataTypes/Interfaces/Solution1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaDataTypes/Interfaces/Solution2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaDataTypes/Interfaces/Solution3$1Dog$Eat.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaDataTypes/Interfaces/Solution3$1Dog$Fly.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaDataTypes/Interfaces/Solution3$1Dog$Move.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaDataTypes/Interfaces/Solution3$1Dog.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaDataTypes/Interfaces/Solution3$1Eat.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaDataTypes/Interfaces/Solution3$1Fly.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaDataTypes/Interfaces/Solution3$1Move.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaDataTypes/Interfaces/Solution3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaDataTypes/Interfaces/Solution4$Human.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaDataTypes/Interfaces/Solution4$Run.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaDataTypes/Interfaces/Solution4$Swim.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaDataTypes/Interfaces/Solution4.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -81,13 +61,13 @@
       <recent name="Inheritance" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Solution5">
-    <configuration name="CatFight" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Classes.CatFight" />
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Cars.Main" />
       <module name="JavaDataTypes" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Classes.*" />
+          <option name="PATTERN" value="Cars.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -149,11 +129,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main" />
         <item itemvalue="Application.Solution5" />
         <item itemvalue="Application.Solution4" />
         <item itemvalue="Application.Solution2" />
         <item itemvalue="Application.Solution1" />
-        <item itemvalue="Application.CatFight" />
       </list>
     </recent_temporary>
   </component>
