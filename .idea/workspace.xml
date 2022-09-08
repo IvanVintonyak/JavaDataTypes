@@ -2,43 +2,34 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0e404590-603b-43ac-8c38-798dd64f6fca" name="Changes" comment="Add some fixes">
-      <change afterPath="$PROJECT_DIR$/src/Interfaces/Solution2/Fly.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Interfaces/Solution2/Run.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Interfaces/Solution2/Swim.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Interfaces/Solution3/Eat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Interfaces/Solution3/Fly.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Interfaces/Solution3/Move.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Interfaces/Solution4/Run.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Interfaces/Solution4/Swim.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaDataTypes/Incapsulation/Cat2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaDataTypes/Incapsulation/Cat2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaDataTypes/Incapsulation/Cat3.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaDataTypes/Incapsulation/Cat3.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaDataTypes/Interfaces/Fly_Run_Swim$Fly.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaDataTypes/Interfaces/Fly_Run_Swim$Run.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaDataTypes/Interfaces/Fly_Run_Swim$Swim.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaDataTypes/Interfaces/Fly_Run_Swim.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaDataTypes/Polymorphism/Solution3$Cat.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaDataTypes/Polymorphism/Solution3$Cat.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaDataTypes/Polymorphism/Solution3$Dog.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaDataTypes/Polymorphism/Solution3$Dog.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaDataTypes/Polymorphism/Solution5$Cow.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaDataTypes/Polymorphism/Solution5$Cow.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaDataTypes/Polymorphism/Solution5$Dog.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaDataTypes/Polymorphism/Solution5$Dog.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaDataTypes/Polymorphism/Solution5$Pig.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaDataTypes/Polymorphism/Solution5$Pig.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaDataTypes/Polymorphism/Solution5$Whale.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaDataTypes/Polymorphism/Solution5$Whale.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaDataTypes/Polymorphism/Solution5.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaDataTypes/Polymorphism/Solution5.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Interfaces/Airplane.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Interfaces/Solution3/Airplane.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Interfaces/Car.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Interfaces/Solution3/Car.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Interfaces/Dog.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Interfaces/Solution3/Dog.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Interfaces/Duck.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Interfaces/Solution3/Duck.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Interfaces/Fly.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Interfaces/Soution1/Fly.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Interfaces/Fly_Move_Eat.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Interfaces/Fly_Run_Swim.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Interfaces/Human.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Interfaces/Solution4/Human.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Interfaces/Run_swim.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Interfaces/Solution1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Interfaces/Soution1/Solution1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Interfaces/Solution2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Interfaces/Solution2/Solution2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Interfaces/Solution3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Interfaces/Solution3/Solution3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Interfaces/Solution4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Interfaces/Solution4/Solution4.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Polymorphism/Solution3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Polymorphism/Solution3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Polymorphism/Solution5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Polymorphism/Solution5.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaDataTypes/Interfaces/Airplane.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaDataTypes/Interfaces/Car.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaDataTypes/Interfaces/Dog.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaDataTypes/Interfaces/Duck.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaDataTypes/Interfaces/Fly.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaDataTypes/Interfaces/Fly_Move_Eat$Eat.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaDataTypes/Interfaces/Fly_Move_Eat$Fly.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaDataTypes/Interfaces/Fly_Move_Eat$Move.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaDataTypes/Interfaces/Fly_Move_Eat.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaDataTypes/Interfaces/Human.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaDataTypes/Interfaces/Run_swim$Run.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaDataTypes/Interfaces/Run_swim$Swim.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaDataTypes/Interfaces/Run_swim.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaDataTypes/Interfaces/Solution1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaDataTypes/Interfaces/Solution2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaDataTypes/Interfaces/Solution3$1Dog$Eat.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaDataTypes/Interfaces/Solution3$1Dog$Fly.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaDataTypes/Interfaces/Solution3$1Dog$Move.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaDataTypes/Interfaces/Solution3$1Dog.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaDataTypes/Interfaces/Solution3$1Eat.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaDataTypes/Interfaces/Solution3$1Fly.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaDataTypes/Interfaces/Solution3$1Move.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaDataTypes/Interfaces/Solution3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaDataTypes/Interfaces/Solution4$Human.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaDataTypes/Interfaces/Solution4$Run.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaDataTypes/Interfaces/Solution4$Swim.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaDataTypes/Interfaces/Solution4.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
