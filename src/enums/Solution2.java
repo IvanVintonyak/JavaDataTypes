@@ -1,4 +1,4 @@
-package com.test.homework.enums;
+package enums;
 
 public class Solution2 {
     /*
@@ -6,10 +6,26 @@ public class Solution2 {
     Print these values to the console in the formant - Monday - day of the week: 1
      */
     public static void main(String[] args) {
-
+        //System.out.print(Solution1.Alphabet.B.name() + " - " + Solution1.Alphabet.B.getLetterPosition());
+        System.out.print(Week.SUNDAY.weekDay + "- day of the week: " + Week.SUNDAY.numOfDay);
     }
 
     public enum Week {
+        SUNDAY("Sunday", 1),
+        MONDAY("Monday", 2),
+        TUESDAY("Tuesday", 3),
+        WEDNESDAY("Wednesday", 4),
+        THURSDAY("Thursday", 5),
+        FRIDAY("Friday", 6),
+        SATURDAY("Saturday", 7);
 
+        String weekDay;
+        int numOfDay;
+
+        Week(String weekDay, int numOfDay) {
+            this.weekDay = weekDay;
+            this.numOfDay = numOfDay;
+        }
     }
 }
+

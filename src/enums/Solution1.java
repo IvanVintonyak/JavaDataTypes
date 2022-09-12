@@ -1,4 +1,4 @@
-package com.test.homework.enums;
+package enums;
 
 public class Solution1 {
     /*
@@ -7,6 +7,7 @@ public class Solution1 {
     Example: A - 1, B - 2
      */
     public static void main(String[] args) {
+        System.out.print(Alphabet.B.name() + " - " + Alphabet.B.getLetterPosition());
 
     }
 
@@ -18,7 +19,7 @@ public class Solution1 {
         U, V, W, X, Y, Z;
 
         int getLetterPosition() {
-            return 0;
+            return this.ordinal() + 1;
         }
     }
 }

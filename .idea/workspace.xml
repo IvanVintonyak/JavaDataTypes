@@ -2,8 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0e404590-603b-43ac-8c38-798dd64f6fca" name="Changes" comment="Add some fixes">
-      <change afterPath="$PROJECT_DIR$/src/work/Dog.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/enums/Solution1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/enums/Solution1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/enums/Solution2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/enums/Solution2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/equals_hashcode/Cat.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/equals_hashcode/Cat.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java-basic" beforeDir="false" afterPath="$PROJECT_DIR$/src/java-basic" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java-basic/src/com/test/homework/enums/Solution1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java-basic/src/com/test/homework/enums/Solution2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java-basic/src/com/test/homework/equals_hashcode/Cat.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java-basic/src/com/test/homework/string/StringTask.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/string/StringTask.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/string/StringTask.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,6 +57,9 @@
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\Ivan\IdeaProjects\JavaDataTypes\src\Interfaces\Solution2" />
     </key>
+    <key name="ExtractSuperBase.RECENT_KEYS">
+      <recent name="equals_hashcode" />
+    </key>
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
       <recent name="Interfaces.Solution4" />
       <recent name="Interfaces.Solution3" />
@@ -56,26 +68,13 @@
       <recent name="Inheritance" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.MainFlow">
-    <configuration name="ChessGame" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Chess_Inheritance.ChessGame" />
+  <component name="RunManager" selected="Application.StringTask">
+    <configuration name="Cat" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="equals_hashcode.Cat" />
       <module name="JavaDataTypes" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Chess_Inheritance.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Cars.Main" />
-      <module name="JavaDataTypes" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Cars.*" />
+          <option name="PATTERN" value="equals_hashcode.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -96,12 +95,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Poli_sm.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Poli_sm.Main" />
+    <configuration name="Solution1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="enums.Solution1" />
       <module name="JavaDataTypes" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Poli_sm.*" />
+          <option name="PATTERN" value="enums.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -109,12 +108,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="work.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="work.Main" />
+    <configuration name="Solution2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="enums.Solution2" />
       <module name="JavaDataTypes" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="work.*" />
+          <option name="PATTERN" value="enums.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StringTask" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="string.StringTask" />
+      <module name="JavaDataTypes" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="string.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -124,11 +136,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.StringTask" />
+        <item itemvalue="Application.Cat" />
+        <item itemvalue="Application.Solution2" />
+        <item itemvalue="Application.Solution1" />
         <item itemvalue="Application.MainFlow" />
-        <item itemvalue="Application.Main" />
-        <item itemvalue="Application.ChessGame" />
-        <item itemvalue="Application.Poli_sm.Main" />
-        <item itemvalue="Application.work.Main" />
       </list>
     </recent_temporary>
   </component>

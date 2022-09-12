@@ -1,4 +1,8 @@
-package com.test.homework.equals_hashcode;
+package equals_hashcode;
+
+import java.util.Arrays;
+import java.util.HashSet;
+import java.util.Objects;
 
 public class Cat {
     /*
@@ -11,9 +15,39 @@ public class Cat {
     private int age;
     private int weight;
 
+
     public Cat(String name, int age, int weight) {
         this.name = name;
         this.age = age;
         this.weight = weight;
     }
+
+    @Override
+    public boolean equals(Object o) {
+        if (this == o) return true;
+        if (o == null || getClass() != o.getClass()) return false;
+        Cat cat = (Cat) o;
+        return age == cat.age && name.equals(cat.name);
+    }
+
+    @Override
+    public int hashCode() {
+        return Objects.hash(name, age);
+    }
+
+    @Override
+    public String toString() {
+        return "Cat name: " + name + "," + " age: " + age + " weight: " + weight;
+    }
+
+    public static void main(String[] args) {
+        Cat cat = new Cat("Tom", 3, 6);
+        Cat cat1 = new Cat("Tom", 3, 6);
+        Cat cat2 = new Cat("Tim", 8, 9);
+        System.out.println(cat.toString());
+        System.out.println(cat.equals(cat));
+        System.out.println(cat.hashCode());
+    }
 }
+
+
