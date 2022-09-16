@@ -7,7 +7,7 @@ public class Solution2 {
      */
     public static void main(String[] args) {
         //System.out.print(Solution1.Alphabet.B.name() + " - " + Solution1.Alphabet.B.getLetterPosition());
-        System.out.print(Week.SUNDAY.weekDay + "- day of the week: " + Week.SUNDAY.numOfDay);
+        System.out.print(Week.SUNDAY.getWeekDay() + "- day of the week: " + Week.SUNDAY.getNumOfDay());
     }
 
     public enum Week {
@@ -22,6 +22,15 @@ public class Solution2 {
         String weekDay;
         int numOfDay;
 
+
+        String getWeekDay(){
+            return weekDay;
+
+        }
+
+        int getNumOfDay(){
+            return numOfDay;
+        }
         Week(String weekDay, int numOfDay) {
             this.weekDay = weekDay;
             this.numOfDay = numOfDay;

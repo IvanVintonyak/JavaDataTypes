@@ -44,7 +44,7 @@ public class Cat {
         Cat cat = new Cat("Tom", 3, 6);
         Cat cat1 = new Cat("Tom", 3, 6);
         Cat cat2 = new Cat("Tim", 8, 9);
-        System.out.println(cat.toString());
+        System.out.println(cat);
         System.out.println(cat.equals(cat));
         System.out.println(cat.hashCode());
     }

@@ -1,6 +1,5 @@
 package string;
 
-import java.util.Scanner;
 import java.util.Arrays;
 
 public class StringTask {
@@ -15,20 +14,20 @@ public class StringTask {
         System.out.println(s.substring(0, 8));
         System.out.println(s.startsWith("h"));
         System.out.println(s.startsWith("H"));
+        System.out.println(s.endsWith("\""));
         System.out.println(s.contains("are you"));
         System.out.println(s.contains("are you "));
         System.out.println(s.replace("how", "who"));
         String[] words = s.split(" ");
         System.out.println(Arrays.toString(words));
-        getCharQuantityInTheString("Hello how are you", (c));
-        greeting("Ivan", 31);
-
+        getCharQuantityInTheString("Hello", (c));
+        greeting("Ivan", 32);
         //print the length of the string
         //print the last char of the string (use the previous method to calculate the index - do not use hardcoded indexes)
 
         //print the index of 'a'
 
-        //substirng the string by the second space " " - result should be "Hey how"
+        //substring the string by the second space " " - result should be "Hey how"
 
         //check if the string start with 'h', with 'H', end with '\'
 
@@ -44,14 +43,15 @@ public class StringTask {
         // (Use String.format function)
     }
 
+
     public static int getCharQuantityInTheString(String s, char c) {
-        s.length();
-        return 0;
+        return s.length();
     }
 
 
     public static void greeting(String name, int age) {
-        System.out.println("Hey, my name is " + name + "," + " and I'm " + age + " years old ");
+        //System.out.println("Hey, my name is," + name + "," + " and I'm " + age + " years old ");
+        System.out.printf("Hey, my name is,  %s, and I'm,  %d, years old", "Ivan", 32);
     }
 
 }

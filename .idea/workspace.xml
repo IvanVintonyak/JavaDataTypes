@@ -2,8 +2,33 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0e404590-603b-43ac-8c38-798dd64f6fca" name="Changes" comment="Add some fixes">
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Classes_cat/task.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/collections/Solution1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/collections/Solution10.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/collections/Solution11.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/collections/Solution12.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/collections/Solution13.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/collections/Solution2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/collections/Solution3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/collections/Solution4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/collections/Solution5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/collections/Solution6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/collections/Solution7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/collections/Solution8.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/collections/Solution9.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaDataTypes/enums/Solution2$Week.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaDataTypes/enums/Solution2$Week.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaDataTypes/enums/Solution2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaDataTypes/enums/Solution2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaDataTypes/equals_hashcode/Cat.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaDataTypes/equals_hashcode/Cat.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaDataTypes/string/StringTask.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaDataTypes/string/StringTask.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Classes/Cat.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Classes_cat/Cat.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Classes/Cat1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Classes_cat/Cat1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Classes/Cat2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Classes_cat/Cat2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Classes/Cat3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Classes_cat/Cat3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Classes/Cat4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Classes_cat/Cat4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Classes/Cat5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Classes_cat/Cat5.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Classes/Cat6.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Classes_cat/Cat6.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Classes/CatFight.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Classes_cat/CatFight.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/enums/Solution1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/enums/Solution1.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/enums/Solution2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/enums/Solution2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/equals_hashcode/Cat.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/equals_hashcode/Cat.java" afterDir="false" />
@@ -68,13 +93,13 @@
       <recent name="Inheritance" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.StringTask">
-    <configuration name="Cat" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="equals_hashcode.Cat" />
+  <component name="RunManager" selected="Application.Solution13">
+    <configuration name="Solution12" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="collections.Solution12" />
       <module name="JavaDataTypes" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="equals_hashcode.*" />
+          <option name="PATTERN" value="collections.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -82,12 +107,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MainFlow" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="page.MainFlow" />
+    <configuration name="Solution13" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="collections.Solution13" />
       <module name="JavaDataTypes" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="page.*" />
+          <option name="PATTERN" value="collections.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -95,12 +120,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Solution1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="enums.Solution1" />
+    <configuration name="Solution3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="collections.Solution3" />
       <module name="JavaDataTypes" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="enums.*" />
+          <option name="PATTERN" value="collections.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -108,12 +133,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Solution2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="enums.Solution2" />
+    <configuration name="Solution4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="collections.Solution4" />
       <module name="JavaDataTypes" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="enums.*" />
+          <option name="PATTERN" value="collections.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -121,12 +146,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StringTask" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="string.StringTask" />
+    <configuration name="Solution5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="collections.Solution5" />
       <module name="JavaDataTypes" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="string.*" />
+          <option name="PATTERN" value="collections.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -136,11 +161,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.StringTask" />
-        <item itemvalue="Application.Cat" />
-        <item itemvalue="Application.Solution2" />
-        <item itemvalue="Application.Solution1" />
-        <item itemvalue="Application.MainFlow" />
+        <item itemvalue="Application.Solution13" />
+        <item itemvalue="Application.Solution5" />
+        <item itemvalue="Application.Solution3" />
+        <item itemvalue="Application.Solution4" />
+        <item itemvalue="Application.Solution12" />
       </list>
     </recent_temporary>
   </component>
