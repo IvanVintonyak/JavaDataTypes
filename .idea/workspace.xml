@@ -2,42 +2,103 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0e404590-603b-43ac-8c38-798dd64f6fca" name="Changes" comment="Add some fixes">
-      <change afterPath="$PROJECT_DIR$/src/Classes_cat/task.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/collections/Solution1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/collections/Solution10.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/collections/Solution11.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/collections/Solution12.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/collections/Solution13.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/collections/Solution2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/collections/Solution3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/collections/Solution4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/collections/Solution5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/collections/Solution6.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/collections/Solution7.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/collections/Solution8.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/collections/Solution9.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaDataTypes/comparable_comparator/Cat.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaDataTypes/comparable_comparator/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaDataTypes/comparable_comparator/Solution.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaDataTypes/generics/Solution.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaDataTypes/generics/Storage.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/C_c/Cat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/C_c/ComparatorAge_A.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/C_c/ComparatorAge_d.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/C_c/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/C_c/NameComparatorD.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/C_c/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/generics/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/generics/Storage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaDataTypes/enums/Solution2$Week.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaDataTypes/enums/Solution2$Week.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaDataTypes/enums/Solution2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaDataTypes/enums/Solution2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaDataTypes/equals_hashcode/Cat.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaDataTypes/equals_hashcode/Cat.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaDataTypes/string/StringTask.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaDataTypes/string/StringTask.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Classes/Cat.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Classes_cat/Cat.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Classes/Cat1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Classes_cat/Cat1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Classes/Cat2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Classes_cat/Cat2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Classes/Cat3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Classes_cat/Cat3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Classes/Cat4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Classes_cat/Cat4.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Classes/Cat5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Classes_cat/Cat5.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Classes/Cat6.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Classes_cat/Cat6.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Classes/CatFight.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Classes_cat/CatFight.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/enums/Solution1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/enums/Solution1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/enums/Solution2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/enums/Solution2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/equals_hashcode/Cat.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/equals_hashcode/Cat.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java-basic" beforeDir="false" afterPath="$PROJECT_DIR$/src/java-basic" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java-basic/src/com/test/homework/enums/Solution1.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java-basic/src/com/test/homework/enums/Solution2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java-basic/src/com/test/homework/equals_hashcode/Cat.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java-basic/src/com/test/homework/string/StringTask.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/string/StringTask.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/string/StringTask.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaDataTypes/collections/Solution13.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaDataTypes/collections/Solution13.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaDataTypes/collections/Solution4.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaDataTypes/collections/Solution4.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaDataTypes/collections/Solution5.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaDataTypes/collections/Solution5.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaDataTypes/com/test/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaDataTypes/com/test/Main2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaDataTypes/com/test/RecursiveFibonnaciJavaProgram.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaDataTypes/com/test/homework/array/DivideArray.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaDataTypes/com/test/homework/array/MaxOf20.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaDataTypes/com/test/homework/array/ReverseArray.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaDataTypes/com/test/homework/array/TaskOrder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaDataTypes/com/test/homework/array/TwoArrays.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaDataTypes/com/test/homework/cars/Car.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaDataTypes/com/test/homework/cars/Engine.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaDataTypes/com/test/homework/cars/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaDataTypes/com/test/homework/cars/SportCar.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaDataTypes/com/test/homework/cars/SportEngine.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaDataTypes/com/test/homework/cars/TaxiCar.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaDataTypes/com/test/homework/cars/TaxiEngine.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaDataTypes/com/test/homework/classes/Cat1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaDataTypes/com/test/homework/classes/Cat2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaDataTypes/com/test/homework/classes/Cat3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaDataTypes/com/test/homework/classes/Cat4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaDataTypes/com/test/homework/classes/Cat5.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaDataTypes/com/test/homework/classes/Cat6.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaDataTypes/com/test/homework/for_loop/EvenNumbers.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaDataTypes/com/test/homework/for_loop/PrintRectangle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaDataTypes/com/test/homework/for_loop/PrintRightTriangle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaDataTypes/com/test/homework/if_else/CompareNames.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaDataTypes/com/test/homework/if_else/MaxOfFour.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaDataTypes/com/test/homework/if_else/MinOfTwo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaDataTypes/com/test/homework/if_else/SortOfThree.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaDataTypes/com/test/homework/oop/abstract_classes/Solution1$Animal.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaDataTypes/com/test/homework/oop/abstract_classes/Solution1$Cow.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaDataTypes/com/test/homework/oop/abstract_classes/Solution1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaDataTypes/com/test/homework/oop/abstract_classes/Solution2$Cat.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaDataTypes/com/test/homework/oop/abstract_classes/Solution2$Dog.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaDataTypes/com/test/homework/oop/abstract_classes/Solution2$Pet.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaDataTypes/com/test/homework/oop/abstract_classes/Solution2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaDataTypes/com/test/homework/oop/encapsulation/Cat1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaDataTypes/com/test/homework/oop/encapsulation/Cat2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaDataTypes/com/test/homework/oop/encapsulation/Cat3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaDataTypes/com/test/homework/oop/interfaces/Solution1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaDataTypes/com/test/homework/oop/interfaces/Solution2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaDataTypes/com/test/homework/oop/interfaces/Solution3$Eat.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaDataTypes/com/test/homework/oop/interfaces/Solution3$Fly.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaDataTypes/com/test/homework/oop/interfaces/Solution3$Move.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaDataTypes/com/test/homework/oop/interfaces/Solution3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaDataTypes/com/test/homework/oop/interfaces/Solution4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaDataTypes/com/test/homework/oop/polymorphism/Solution1$Cow.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaDataTypes/com/test/homework/oop/polymorphism/Solution1$Whale.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaDataTypes/com/test/homework/oop/polymorphism/Solution1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaDataTypes/com/test/homework/oop/polymorphism/Solution2$Cow.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaDataTypes/com/test/homework/oop/polymorphism/Solution2$Whale.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaDataTypes/com/test/homework/oop/polymorphism/Solution2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaDataTypes/com/test/homework/oop/polymorphism/Solution3$Cat.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaDataTypes/com/test/homework/oop/polymorphism/Solution3$Dog.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaDataTypes/com/test/homework/oop/polymorphism/Solution3$Pet.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaDataTypes/com/test/homework/oop/polymorphism/Solution3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaDataTypes/com/test/homework/oop/polymorphism/Solution4$Bird.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaDataTypes/com/test/homework/oop/polymorphism/Solution4$Cat.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaDataTypes/com/test/homework/oop/polymorphism/Solution4$Dog.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaDataTypes/com/test/homework/oop/polymorphism/Solution4$Lamp.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaDataTypes/com/test/homework/oop/polymorphism/Solution4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaDataTypes/com/test/homework/oop/polymorphism/Solution5$Cow.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaDataTypes/com/test/homework/oop/polymorphism/Solution5$Dog.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaDataTypes/com/test/homework/oop/polymorphism/Solution5$Pig.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaDataTypes/com/test/homework/oop/polymorphism/Solution5$Whale.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaDataTypes/com/test/homework/oop/polymorphism/Solution5.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaDataTypes/com/test/homework/while_loop/MultiplicationTable.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaDataTypes/com/test/homework/while_loop/PrintStringNTimes.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaDataTypes/com/test/homework/while_loop/SSquare.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaDataTypes/com/test/homework/while_loop/TenNumbers.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaDataTypes/com/test/homework/while_loop/TenNumbersReverse.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaDataTypes/com/test/reference/Primitive.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaDataTypes/com/test/reference/Reference$Person.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaDataTypes/com/test/reference/Reference.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaDataTypes/java-basic/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaDataTypes/java-basic/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaDataTypes/java-basic/src/com/test/homework/classes/task.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaDataTypes/java-basic/src/com/test/homework/oop/inheritance/task.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/collections/Solution4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/collections/Solution4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java-basic" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,8 +109,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="package-info" />
-        <option value="Interface" />
         <option value="Enum" />
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -72,17 +133,20 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
     &quot;last_opened_file_path&quot;: &quot;C:/Users/Ivan/IdeaProjects/JavaDataTypes&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;Console&quot;
+    &quot;settings.editor.selected.configurable&quot;: &quot;project.propVCSSupport.DirectoryMappings&quot;
   }
 }</component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
+      <recent name="C_C" />
+      <recent name="comparable_comparator" />
       <recent name="Polymorphizm" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\Ivan\IdeaProjects\JavaDataTypes\src\Interfaces\Solution2" />
     </key>
     <key name="ExtractSuperBase.RECENT_KEYS">
+      <recent name="C_C" />
       <recent name="equals_hashcode" />
     </key>
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
@@ -93,13 +157,13 @@
       <recent name="Inheritance" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Solution13">
-    <configuration name="Solution12" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="collections.Solution12" />
+  <component name="RunManager" selected="Application.C_c.Main">
+    <configuration name="C_c.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="C_c.Main" />
       <module name="JavaDataTypes" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="collections.*" />
+          <option name="PATTERN" value="C_c.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -107,12 +171,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Solution13" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="collections.Solution13" />
+    <configuration name="Comparable_comparator1.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Comparable_comparator1.Main" />
       <module name="JavaDataTypes" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="collections.*" />
+          <option name="PATTERN" value="Comparable_comparator1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -120,12 +184,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Solution3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="collections.Solution3" />
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="comparable_comparator.Main" />
       <module name="JavaDataTypes" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="collections.*" />
+          <option name="PATTERN" value="Comparable_comparator1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -133,12 +197,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Solution4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="collections.Solution4" />
+    <configuration name="Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="generics.Solution" />
       <module name="JavaDataTypes" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="collections.*" />
+          <option name="PATTERN" value="generics.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -161,11 +225,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Solution13" />
+        <item itemvalue="Application.C_c.Main" />
+        <item itemvalue="Application.Comparable_comparator1.Main" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.Solution" />
         <item itemvalue="Application.Solution5" />
-        <item itemvalue="Application.Solution3" />
-        <item itemvalue="Application.Solution4" />
-        <item itemvalue="Application.Solution12" />
       </list>
     </recent_temporary>
   </component>
@@ -284,6 +348,9 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/src/java-basic" />
+    </ignored-roots>
     <MESSAGE value="Add .gitignore" />
     <MESSAGE value="Add .gitignore 2" />
     <MESSAGE value="Add some fixes" />

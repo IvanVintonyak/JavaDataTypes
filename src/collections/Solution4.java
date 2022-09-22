@@ -16,7 +16,7 @@ public class Solution4 {
         System.out.println("Enter 5 cars name");
         Deque<String> cars = new LinkedList<>();
         for (int i = 0; i < 5; i++) {
-            cars.add(scanner.nextLine());
+            cars.addFirst(scanner.nextLine());
         }
         for (String i : cars) {
             System.out.println(i);
